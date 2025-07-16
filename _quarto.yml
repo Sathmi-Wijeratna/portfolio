@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sathmi Wijeratna"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Extracurricular"
+        href: Extracurricular.qmd
+      - text: "Volunteering"
+        href: volunteer.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "References"
+        href: references.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    
+    resources:
+       - assets/**

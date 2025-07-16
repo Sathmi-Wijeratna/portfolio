@@ -1,0 +1,25 @@
+---
+title: "Research & Projects"
+---
+
+
+## Vehicle in Motion – Python & Data Science Project (2025)
+*Python Bootcamp – PyData Sri Lanka & Illinois, USA*
+
+- Analyzed a comprehensive dataset of registered public passenger vehicles in Illinois to uncover insights on transportation.
+- Applied Natural Language Processing (NLP) for sentiment analysis of user feedback and regional reports.
+- Built an interactive dashboard using Python (Plotly Dash) for visualizing key patterns and trends.
+- Conducted extensive data cleaning, preprocessing, and feature extraction to ensure accuracy.
+- Recognized as a top-performing team project for exceptional skill and impact.
+- [View Certificate](https://drive.google.com/file/d/1IR7phJAot28WbbszGgXuceiZgIe0bmNA/view?usp=drivesdk) <!-- Replace # with actual certificate URL if available -->
+
+---
+
+## Technical Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Feature extraction
+- Dashboard creation
+- Data visualization
+- Sentiment analysis
+---

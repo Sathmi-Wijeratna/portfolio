@@ -1,0 +1,33 @@
+---
+title: "About Me"
+---
+
+
+
+I am a passionate data science enthusiast currently pursuing a BSc (Hons) in Statistics at the University of Sri Jayewardenepura, Sri Lanka (2022–2026 expected). Skilled in statistical modeling, programming, research, and scientific writing, I am dedicated to driving innovation and impactful outcomes.
+
+---
+
+## Education
+
+| Degree                                        | Institution                            | Year(s)                  |
+|-----------------------------------------------|----------------------------------------|--------------------------|
+| BSc (Hons) in Statistics                     | University of Sri Jayewardenepura      | 2022–2026 (Expected)     |
+| Advanced Level: Physical Science Stream       | Musaeus College, Colombo               | 2020                     |
+| Diploma in Management Accounting (CIMA)       | CIMA                                   | 2022                     |
+| Certificate in Business Accounting (CIMA)     | CIMA                                   | 2021                     |
+
+---
+
+## Software Skills
+
+- **Programming:** Python, R, Java, C
+- **Data Analysis:** Minitab, Excel, SPSS
+- **Document Preparation:** LaTeX, MS Office, R Markdown
+
+---
+
+## Interests
+
+Networking, Self-growth, Reading, Volunteering, Dancing
+---

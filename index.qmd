@@ -1,0 +1,41 @@
+---
+title: "Sathmi Wijeratna"
+image: assets/new.jpg
+---
+
+![](assets/new.jpg){width="180px" style="border-radius: 50%;"}
+
+*Motivated and detail-oriented data science enthusiast with a strong foundation in statistics, hands-on research experience, and a passion for creating positive change through data-driven insights.*
+
+-   📍 59/2, Jaya Road -- Udahamulla, Nugegoda
+-   📱 +94 76 556 1453
+-   ✉️ sathmi028\@gmail.com
+-   💼 [LinkedIn](https://www.linkedin.com/in/sathmi-wijeratna-3a81b32a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) <!-- Insert your actual LinkedIn URL -->
+
+------------------------------------------------------------------------
+
+## Key Competencies
+
+-   **Research:** Quantitative & qualitative research, data analysis, scientific writing\
+-   **Technical:** Statistical analysis, predictive modeling, project management, hypothesis testing\
+-   **Leadership:** Team coordination, event management, decision making\
+-   **Communication:** Report writing, presentations, teamwork, stakeholder engagement\
+-   **Problem Solving:** Critical thinking, adaptability, innovative solutions
+
+------------------------------------------------------------------------
+
+## Quick Links
+
+-   [About Me](about.qmd)
+
+-   [Projects](projects.qmd)
+
+-   [Extracurricular](Extracurricular.qmd)
+
+-   [Volunteering](volunteer.qmd)
+
+-   [CV](cv.qmd)
+
+-   
+
+    ## [References](references.qmd)
